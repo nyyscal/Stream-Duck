@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Nischal-Malla-s-workspace-be5jv7.ap-southeast-2.xata.sh/db/ny-screenrec",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
